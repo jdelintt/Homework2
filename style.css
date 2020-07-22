@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url("LandingPage.JPG");
+  background-image: url("LandingPage.jpg");
   background-color: #cccccc;
   background-size: cover;
 }
@@ -21,6 +21,7 @@ body {
   align-content: center;
 }
 
-.container {
-  float: center;
+.profile-img {
+  position: relative;
+  bottom: 130px;
 }
