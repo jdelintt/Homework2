@@ -23,5 +23,20 @@ body {
 
 .profile-img {
   position: relative;
-  bottom: 130px;
+  bottom: 300px;
+  right: 100px;
+  border: grey;
+}
+
+.card12 {
+  position: relative;
+  right: 200px;
+  background-color: rgb(181, 206, 136);
+  bottom: 40px;
+}
+
+.card11 {
+  position: relative;
+  background-color: rgb(181, 206, 136);
+  bottom: 40px;
 }
