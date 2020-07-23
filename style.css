@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url("LandingPage.jpg");
+  background-image: url("./LandingPage.JPG");
   background-color: #cccccc;
   background-size: cover;
 }
@@ -33,12 +33,18 @@ body {
   right: 250px;
   background-color:#b3b300;
   bottom: 40px;
+  border-style: solid;
+  border-color: black;
+  padding: 2px;
 }
 
 .card11 {
   position: relative;
   background-color: #b3b300;
   bottom: 40px;
+  border-style: solid;
+  border-color: black;
+  padding: 2px;
 }
 
 .buttonPortfolio1 {
