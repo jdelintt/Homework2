@@ -10,10 +10,8 @@ body {
   background-color: #cccccc;
   background-size: cover;
 }
-
 .container {
-  float: right;
-  margin-top: 500px;
+  margin-top: 440px;
 }
 
 .btn-secondary1 {
@@ -30,7 +28,7 @@ body {
 
 .card12 {
   position: relative;
-  right: 250px;
+  right: 230px;
   background-color:#b3b300;
   bottom: 40px;
   border-style: solid;
